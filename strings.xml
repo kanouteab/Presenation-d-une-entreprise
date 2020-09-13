@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCompany</string>
+    <string name="presentation">Presentation</string>
+    <string name="contact">Contacts</string>
+    <string name="home">Home</string>
+    <string name="temoins">Ils nous ont fait confiance</string>
+    <string name="qualite">Bienvenu chez-nous, Qualté meilleur prix</string>
+    <string name="menu_contact">Bienvenu au menu contact</string>
+    <string name="menu_presentation">Bienvenu au menu présentation</string>
+    <string name="menu_temoins">Ils nous ont fait confiance</string>
+</resources>
